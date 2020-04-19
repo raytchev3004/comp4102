@@ -32,3 +32,5 @@ You can add pictures to the library to test them with the program
 
 Summary,Background,the Challenge,goals and deliverables and Schedule are all in proposal.pdf
 
+all files submitted before the 3 hour extension ends 
+
