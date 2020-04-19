@@ -20,7 +20,9 @@ and pip install whatever other library that is not already on your PC. One solut
 
 
 -> Unzip project.zip
+
 -> cd to proper directory
+
 -> python final.py
 
 You can add pictures to the library to test them with the program
