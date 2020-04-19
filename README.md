@@ -20,3 +20,6 @@ and pip install whatever other library that is not already on your PC. One solut
 -> python final.py
 
 You can add pictures to the library to test them with the program
+
+
+Summary,Background,the Challenge,goals and deliverables and Schedule are all in deliverables
